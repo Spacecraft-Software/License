@@ -1,0 +1,9 @@
+# AI assistant artifacts — kept local, not published
+Chat.txt
+CLAUDE.md
+AGENTS.md
+GEMINI.md
+.claude/
+.cursor/
+.cursorrules
+.aider*
